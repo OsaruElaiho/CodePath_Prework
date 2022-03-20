@@ -6,7 +6,7 @@ Submitted by: **Osaru Elaiho**
 
 Time spent: **≈ 4** hours spent in total
 
-Link to project: https://infrequent-striped-hubcap.glitch.me/
+Link to project: https://glitch.com/edit/#!/infrequent-striped-hubcap
 
 ## Required Functionality
 
