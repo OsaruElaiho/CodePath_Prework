@@ -4,9 +4,9 @@
 
 Submitted by: Osaru Elaiho
 
-Time spent: 4 hours spent in total
+Time spent: ≈ 4 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://infrequent-striped-hubcap.glitch.me/
 
 ## Required Functionality
 
