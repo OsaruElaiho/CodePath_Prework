@@ -1,0 +1,88 @@
+/* CSS files add styling rules to your content */
+
+body {
+  /* I used the background-color and color values 
+  from the CodePath website :) */
+  font-family: Helvetica, arial, sans-serif;
+  background-color: #333333;
+  margin: 2em;
+  color: #00c98e;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.fa-solid { 
+  color: black;  
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  background: indianred;
+}
+
+#button1:active,
+#button1.lit {
+  background: red;
+}
+
+#button2 {
+  background: #fbab60; /* Rajah */
+}
+
+#button2:active,
+#button2.lit {
+  background: darkorange;
+}
+
+#button3 {
+  background: #fcffa4; /* Calamansi */
+}
+
+#button3:active,
+#button3.lit {
+  background: #fdff00; /* Lemon Glacier */
+}
+
+#button4 {
+  background: skyblue;
+}
+
+#button4:active,
+#button4.lit {
+  background: dodgerblue;
+}
+
+/* Optional: CSS rules for the new buttons */
+#button5 {
+  background: mediumpurple;
+}
+
+#button5:active,
+#button5.lit {
+  background: blueviolet;
+}
+
+#button6 {
+  background: #f984ef; /* Light Fuchsia Pink */
+}
+
+#button6:active,
+#button6.lit {
+  background: #fe4eda; /* Purple Pizzazz */
+}
